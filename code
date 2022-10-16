@@ -103,4 +103,3 @@ chrome.management.getAll(function(){
     document.newBodyData += "</table>"
     document.body.innerHTML = document.newBodyData;
 })
-alert("re enter the code");
